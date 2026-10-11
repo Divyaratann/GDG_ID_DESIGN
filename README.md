@@ -11,7 +11,7 @@ Each keychain features a team member's photograph, name, role, and GDG Prayagraj
 ## 🖼️ Project Preview
 
 <p align="center">
-  <img src="./keychain All Divyaratann.png" alt="GDG Prayagraj DevFest 2025 Keychain Design" width="350">
+  <img src="./keychain All Divyaratann .png" alt="GDG Prayagraj DevFest 2025 Keychain Design" width="350">
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ The objective of this project is to create personalized keychain designs that re
 ## 📂 Repository Contents
 
 - `README.md` – Project documentation
-- `keychain All Divyaratann.png` – Personalized keychain design
+- `keychain All Divyaratann .png` – Personalized keychain design
 - `keychain-*.png` – Keychain designs for other team members
 
 ## 👨‍💻 My Contribution
