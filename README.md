@@ -8,8 +8,15 @@ Each keychain features a team member's photograph, name, role, and GDG Prayagraj
 
 ## 🖼️ Project Preview
 
-![GDG Prayagraj DevFest 2025 Keychain Design](keychain-divyaratann.png)
+## 🖼️ Project Preview
 
+<p align="center">
+  <img src="./keychain-divyaratann.png" alt="GDG Prayagraj DevFest 2025 Keychain Design" width="350">
+</p>
+
+<p align="center">
+  <em>Personalized keychain design for GDG Prayagraj DevFest 2025.</em>
+</p>
 ## ✨ Features
 
 - Personalized keychain designs for team members
