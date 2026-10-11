@@ -36,8 +36,7 @@ The objective of this project was to create an attractive, personalized keychain
 GDG-DevFest-Keychain/
 │
 ├── README.md
-└── images/
-    └── keychain-divyaratann.png
+└── keychain-divyaratann.png
 ```
 
 ## 🚀 How to View
