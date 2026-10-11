@@ -2,9 +2,9 @@
 
 ## 📌 About the Project
 
-This project showcases a personalized keychain badge design created for **Google Developer Groups (GDG) Prayagraj – DevFest 2025**.
+This project showcases personalized keychain designs created for the **Google Developer Groups (GDG) Prayagraj** community for DevFest 2025.
 
-The design features a member's photograph, name, team role, community branding, and colorful visual elements inspired by the event's identity.
+Each keychain features a team member's photograph, name, role, and GDG Prayagraj branding. The designs use colorful visual elements to create a professional and attractive identity for community members.
 
 ## 🖼️ Project Preview
 
@@ -12,13 +12,13 @@ The design features a member's photograph, name, team role, community branding, 
 
 ## ✨ Features
 
-- Personalized keychain badge design
-- Member photograph and name
+- Personalized keychain designs for team members
+- Member photographs and names
 - Core Team identification
 - GDG Prayagraj community branding
-- DevFest 2025 event identity
-- Colorful and modern visual layout
-- Consistent design for multiple team members
+- DevFest 2025 event theme
+- Colorful and modern visual design
+- Consistent layout for multiple members
 
 ## 🛠️ Tools Used
 
@@ -28,33 +28,26 @@ The design features a member's photograph, name, team role, community branding, 
 
 ## 🎯 Project Objective
 
-The objective of this project was to create an attractive, personalized keychain design for GDG Prayagraj team members participating in DevFest 2025. The design helps represent team identity and community participation through customized badges.
+The objective of this project is to create personalized keychain designs that represent team members and their association with the GDG Prayagraj community. These designs combine member identification, event branding, and creative visual elements.
 
-## 📂 Repository Structure
+## 📂 Repository Contents
 
-```text
-GDG-DevFest-Keychain/
-│
-├── README.md
-└── keychain-divyaratann.png
-```
-
-## 🚀 How to View
-
-1. Open the image file in the `images` folder.
-2. View the keychain design directly on GitHub through the preview above.
-3. Download the image if you need a local copy.
+- `README.md` – Project documentation
+- `keychain-divyaratann.png` – Personalized keychain design
+- `keychain-*.png` – Keychain designs for other team members
 
 ## 👨‍💻 My Contribution
 
-Contributed to the personalized keychain design for the GDG Prayagraj DevFest 2025 community, featuring member identification and event-related branding.
+Contributed to the creation and preparation of personalized keychain design assets for the GDG Prayagraj community, featuring member details and event-related branding.
 
 ## 🙌 Acknowledgement
 
-Thanks to **Google Developer Groups (GDG) Prayagraj** for the community activities and opportunities to participate in developer events.
+Thanks to the GDG Prayagraj community for providing opportunities to participate in developer community activities and events.
+
+## 📄 Disclaimer
+
+GDG, DevFest, and associated logos or trademarks belong to their respective owners. Please follow the applicable branding guidelines and permissions before reusing these assets.
 
 ---
-
-⭐ If you like this project, consider giving the repository a star!
 
 **Made with 💙 for the developer community.**
