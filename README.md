@@ -8,7 +8,7 @@ The design features a member's photograph, name, team role, community branding, 
 
 ## 🖼️ Project Preview
 
-![GDG Prayagraj DevFest 2025 Keychain Design](images/keychain-divyaratann.png)
+![GDG Prayagraj DevFest 2025 Keychain Design](keychain-divyaratann.png)
 
 ## ✨ Features
 
